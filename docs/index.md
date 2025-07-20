@@ -1,6 +1,6 @@
 # DEFCON 33
 
-![image](https://defcon.org/images/defcon-33/dc33-logo.webp)
+[!image](dc33-logo.webp)
 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
